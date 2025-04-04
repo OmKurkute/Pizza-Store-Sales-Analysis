@@ -1,5 +1,5 @@
 🍕 Pizza Sales Analysis Project
-This project is a SQL-based analysis of a fictional pizza sales database. It showcases how SQL can be used to extract key business insights from raw transactional data. Ideal for practicing data analysis and query writing.
+This project is a SQL-based analysis of a fictional pizza sales database. It showcases how SQL can be used to extract key business insights from raw transactional data. Ideal for practicing data analysis and query writing. 
 
 📂 Project Overview
 The project uses SQL to answer several important business questions, such as:

@@ -1,46 +1,31 @@
-🍕 Pizza Sales Analysis Project
-This project is a SQL-based analysis of a fictional pizza sales database. It showcases how SQL can be used to extract key business insights from raw transactional data. Ideal for practicing data analysis and query writing. 
+# 🍕 Pizza Sales SQL Analysis
 
-📂 Project Overview
-The project uses SQL to answer several important business questions, such as:
+This project contains a series of SQL queries to analyze pizza sales data. The goal is to derive useful business insights such as total revenue, popular pizza types, top-selling products, and customer order behavior.
 
-📦 Total number of orders placed
+## 📊 Features & Analysis
 
-💰 Total revenue generated
+The SQL script includes queries that:
 
-💎 Highest priced pizza
+- Retrieve the **total number of orders** placed.
+- Calculate the **total revenue** generated from pizza sales.
+- Identify the **highest-priced pizza**.
+- List the **top 5 most ordered pizza types** with their quantities.
+- Find the **most common pizza size** ordered.
+- Determine **total pizzas sold**.
+- Analyze **daily, weekly, and monthly sales trends**.
 
-🔝 Top 5 most ordered pizzas
+## 🛠️ Technologies Used
 
-📏 Most commonly ordered pizza size
+- SQL (Structured Query Language)
+- MySQL or any relational database engine that supports standard SQL
 
-🧾 Total quantity of pizzas by category
+## 🚀 How to Use
 
-🛠️ Technologies Used
-SQL (Structured Query Language)
+1. Clone this repository or download the SQL file.
+2. Import the pizza sales dataset and related tables into your SQL database.
+3. Run the `Pizzasales.sql` file to execute the queries.
+4. View the results and explore business insights.
 
-MySQL (or any relational database system)
+## 📁 File Structure
 
-Data Source: Fictional pizza sales dataset
-
-📊 Sample Insights
-Here are some of the insights you can expect from running the queries in the script:
-
-Total Sales – The overall revenue from all pizzas sold.
-
-Top Performers – Which pizza types and sizes are the most popular.
-
-Category Trends – Which categories (e.g., Classic, Veggie, etc.) are most in demand.
-
-📁 Files Included
-Pizzasales.sql – Contains all the SQL queries used for the analysis.
-
-🚀 How to Use
-Clone this repository.
-
-Import the database and tables (not included) into your SQL environment.
-
-Run the queries from Pizzasales.sql to see the results.
-
-🙌 Contributions
-Feel free to fork the repo and improve the queries or add more analysis. Pull requests are welcome!
+Fork the repo and improve the queries or add more analysis. Pull requests are welcome!
